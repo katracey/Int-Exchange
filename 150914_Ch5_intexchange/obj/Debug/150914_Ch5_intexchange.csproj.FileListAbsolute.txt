@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Ch5_intexchange\150914_Ch5_intexchange\bin\Debug\150914_Ch5_intexchange.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Ch5_intexchange\150914_Ch5_intexchange\bin\Debug\150914_Ch5_intexchange.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Ch5_intexchange\150914_Ch5_intexchange\bin\Debug\150914_Ch5_intexchange.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Ch5_intexchange\150914_Ch5_intexchange\obj\Debug\150914_Ch5_intexchange.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Ch5_intexchange\150914_Ch5_intexchange\obj\Debug\150914_Ch5_intexchange.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Ch5_intexchange\150914_Ch5_intexchange\obj\Debug\150914_Ch5_intexchange.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_Ch5_intexchange\150914_Ch5_intexchange\bin\Debug\150914_Ch5_intexchange.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_Ch5_intexchange\150914_Ch5_intexchange\obj\Debug\150914_Ch5_intexchange.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_Ch5_intexchange\150914_Ch5_intexchange\obj\Debug\150914_Ch5_intexchange.pdb
